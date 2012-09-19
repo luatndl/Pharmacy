@@ -30,7 +30,7 @@
  *
  * Add your application-wide methods in the class below, your controllers
  * will inherit them.
- *
+ * luatnd
  * @package       cake
  * @subpackage    cake.app
  */
