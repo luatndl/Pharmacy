@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 app/tmp
 vendors
+=======
+tmp/*
+config/database.php
+app/tmp/*
+app/config/database.php
+!empty
+>>>>>>> origin/master
